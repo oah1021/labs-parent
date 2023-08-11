@@ -11,6 +11,9 @@
     <modules>
         <module>lab-000</module>
         <module>lab-001</module>
+        <module>lab-002</module>
+        <module>lab-003</module>
+        <module>lab-004</module>
     </modules>
 
 </project>
